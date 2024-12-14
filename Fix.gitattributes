@@ -1,0 +1,4 @@
+*.wasm binary
+git add .gitattributes
+git commit -m "Add .gitattributes for WebAssembly files"
+git push
